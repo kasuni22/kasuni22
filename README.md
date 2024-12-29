@@ -3,11 +3,13 @@
 </div>
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm K.H.Kasuni Madeesha<img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif"></h1>
+
 <h3 align="center">A passionate software developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasuni22&label=Profile%20views&color=0e75b6&style=flat" alt="kasuni22" /> </p>
 
----
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 - 🔭 I’m currently working on [Retail-wholesale-shop-control-system](https://github.com/Ashen1919/Retail-wholesale-shop-control-system)
   <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
@@ -20,7 +22,7 @@
 
   
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="left">
 <a href="https://twitter.com/kasuni_2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kasuni_2001" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kasuni-kariyawasam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kasuni-kariyawasam" height="30" width="40" /></a>
