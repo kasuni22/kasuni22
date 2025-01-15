@@ -1,8 +1,11 @@
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=kasuni22&label=Profile%20views&color=0e75b6&style=flat" alt="kasuni22" />
+  <!-- Visitor Views -->
+  <img src="https://komarev.com/ghpvc/?username=kasuni22&label=Visitor%20Views&color=0e75b6&style=flat" alt="Visitor Views" />
+  
+  <!-- Your Views -->
+  <img src="https://komarev.com/ghpvc/?username=kasuni22-self&label=My%20Views&color=ff4500&style=flat" alt="My Views" />
 </p>
 
-![Your Views](https://profile-counter.glitch.me/kasuni22-personal/count.svg)
 
 
 
