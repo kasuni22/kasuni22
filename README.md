@@ -1,13 +1,3 @@
-<p align="left">
-  <!-- Visitor Views -->
-  <img src="https://komarev.com/ghpvc/?username=kasuni22&label=Visitor%20Views&color=0e75b6&style=flat" alt="Visitor Views" />
-  
-  <!-- Your Views -->
-  <img src="https://komarev.com/ghpvc/?username=kasuni22-self&label=My%20Views&color=ff4500&style=flat" alt="My Views" />
-</p>
-
-
-
 
 <div align="center">
   <img src="https://www.kindpng.com/picc/m/274-2748314_freetoedit-menherachan-animegirl-animecute-png-kawaii-anime-girl.png" height="300" width="300">
@@ -17,7 +7,7 @@
 
 <h3 align="center">A passionate software developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kasuni22&label=Profile%20views&color=0e75b6&style=flat" alt="kasuni22" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kasuni22&label=My%20views&color=0e75b6&style=flat" alt="kasuni22" /> </p>
 <br>
 
 #### Thanks for visiting :heart:
