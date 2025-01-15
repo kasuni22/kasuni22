@@ -7,17 +7,9 @@
 
 <h3 align="center">A passionate software developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kasuni22&label=My%20views&color=0e75b6&style=flat" alt="kasuni22" /> 
-  
-![GitHub followers](https://img.shields.io/github/followers/kasuni22?style=social)
-  
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kasuni22&label=Profile%20views&color=0e75b6&style=flat" alt="kasuni22" /></p>
 
-<br>
 
-#### Thanks for visiting :heart:
-![VisitorCount](https://profile-counter.glitch.me/kasuni22/count.svg)
-<br>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
