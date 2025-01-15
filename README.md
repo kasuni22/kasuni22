@@ -7,7 +7,12 @@
 
 <h3 align="center">A passionate software developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kasuni22&label=My%20views&color=0e75b6&style=flat" alt="kasuni22" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kasuni22&label=My%20views&color=0e75b6&style=flat" alt="kasuni22" /> 
+  
+  ![GitHub followers](https://img.shields.io/github/followers/kasuni22?style=social)
+  
+</p>
+
 <br>
 
 #### Thanks for visiting :heart:
