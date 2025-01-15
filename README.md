@@ -1,3 +1,11 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=kasuni22&label=Profile%20views&color=0e75b6&style=flat" alt="kasuni22" />
+</p>
+
+![Your Views](https://profile-counter.glitch.me/kasuni22-personal/count.svg)
+
+
+
 <div align="center">
   <img src="https://www.kindpng.com/picc/m/274-2748314_freetoedit-menherachan-animegirl-animecute-png-kawaii-anime-girl.png" height="300" width="300">
 </div>
