@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasuni22&label=My%20views&color=0e75b6&style=flat" alt="kasuni22" /> 
   
-  ![GitHub followers](https://img.shields.io/github/followers/kasuni22?style=social)
+![GitHub followers](https://img.shields.io/github/followers/kasuni22?style=social)
   
 </p>
 
