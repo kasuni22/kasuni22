@@ -11,7 +11,7 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- 🔭 I’m currently working on [Retail-wholesale-shop-control-system](https://github.com/Ashen1919/Retail-wholesale-shop-control-system)
+- 🔭 I’m currently working on [Book_store_management_system](https://github.com/kasuni22/Book_store_management_system.git) 
   <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 - 🌱 I’m currently learning **BSc(Hons)Software Engineering at Saegis Campus**
