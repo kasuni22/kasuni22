@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **BSc(Hons)Software Engineering at Saegis Campus**
 
-- 👨‍💻 All of my projects are available at [https://kasuni22.github.io/portfolio/](https://kasuni22.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://kasunimadeesha.vercel.app/](https://kasunimadeesha.vercel.app/)  
 
 - 📫 How to reach me **kmkariyawasam4@gmail.com**
 
